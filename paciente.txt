@@ -1,0 +1,31 @@
+FICHA DO PACIENTE!!
+
+Nome: a
+CPF: a
+Sexo: a
+Idade: 1596389616
+
+QUESTIONARIO PARA COVID-19
+
+1 - Tem febre? 
+R - sim
+2 - Tem dor de cabeça? 
+R - sim
+3 - Tem sencreção nasal ou espirros? 
+R - sim
+4 - Tem dor/irritaçao na garganta? 
+R - sim
+5 - Tem tosse seca? 
+R - sim
+6 - Tem dificuldade respiratoria? 
+R - sim
+7 - Tem dores no corpo? 
+R - sim
+8 - Tem diarreia? 
+R - sim
+9 - Esteve em contato, nos ultimos 14 dias, com um caso diagnosticado com COVID-19? 
+R - sim
+10 - Esteve em locais com grande aglomeraçao? 
+R - sim
+
+PONTUAÇÃO DO QUESTIONARIO: 36!
